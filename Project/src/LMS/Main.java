@@ -1,6 +1,8 @@
 
 package LMS;
 
+
+// this main function doesn't run well. It has got error in it.
 // Including Header Files.
 import java.io.*;
 import java.util.*;
